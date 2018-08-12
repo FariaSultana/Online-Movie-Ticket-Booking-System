@@ -1,0 +1,90 @@
+E:\c_sharp\labtest\csharptry\online movie\online movie\bin\Debug\online movie.exe.config
+E:\c_sharp\labtest\csharptry\online movie\online movie\bin\Debug\online movie.exe
+E:\c_sharp\labtest\csharptry\online movie\online movie\bin\Debug\online movie.pdb
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online movie.csprojResolveAssemblyReference.cache
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Properties.Resources.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online movie.csproj.GenerateResource.Cache
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online movie.exe
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online movie.pdb
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Movie.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Register.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Now_Showing_Movie_List.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\c_sharp\labtest\csharptry\online movie\online movie\bin\Debug\Interop.WMPLib.dll
+E:\c_sharp\labtest\csharptry\online movie\online movie\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\c_sharp\labtest\csharptry\online movie\online movie\bin\Debug\AxInterop.WMPLib.dll
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\Interop.WMPLib.dll
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\AxInterop.WMPLib.dll
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online movie.csproj.ResolveComReference.cache
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Movies_Details.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Welcome_Page.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Movie_details_Of_TheMummy.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Buy_tickets.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Payment.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Aynabaji.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Badsha.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Movie_Details_Of_Nawbab.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Upcomimg_Movie.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Movie_Detail_Of_Aynabaji.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Movies_Details_Of_Badshah.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Movie_Detail_Of_Transformer.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Upcoming_Detail_1.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Mastercard.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.VisaCard.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Upcomming_Movie_Details2.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.login.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Work.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Upcoming_Movie_Details3.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Upcoming_Movie_Details4.resources
+E:\c_sharp\labtest\csharptry\online movie\online movie\obj\Debug\online_movie.Movie_Details_Of_Spiderman.resources
+E:\c_sharp\labtest\csharptry\onlinemovie\online movie\bin\Debug\online movie.exe.config
+E:\c_sharp\labtest\csharptry\onlinemovie\online movie\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\c_sharp\labtest\csharptry\onlinemovie\online movie\obj\Debug\Interop.WMPLib.dll
+E:\c_sharp\labtest\csharptry\onlinemovie\online movie\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\c_sharp\labtest\csharptry\onlinemovie\online movie\obj\Debug\AxInterop.WMPLib.dll
+E:\c_sharp\labtest\csharptry\onlinemovie\online movie\obj\Debug\online movie.csproj.ResolveComReference.cache
+E:\c_sharp\labtest\csharptry\onlinemovie\online movie\obj\Debug\online movie.exe
+E:\c_sharp\labtest\csharptry\onlinemovie\online movie\obj\Debug\online movie.pdb
+E:\online movie\bin\Debug\online movie.exe.config
+E:\online movie\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\online movie\obj\Debug\Interop.WMPLib.dll
+E:\online movie\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\online movie\obj\Debug\AxInterop.WMPLib.dll
+E:\online movie\obj\Debug\online movie.csproj.ResolveComReference.cache
+E:\online movie\obj\Debug\online movie.exe
+E:\online movie\obj\Debug\online movie.pdb
+E:\online movie\bin\Debug\online movie.exe
+E:\online movie\bin\Debug\online movie.pdb
+E:\online movie\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\online movie\bin\Debug\Interop.WMPLib.dll
+E:\online movie\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\online movie\bin\Debug\AxInterop.WMPLib.dll
+E:\online movie\obj\Debug\online movie.csprojResolveAssemblyReference.cache
+E:\online movie\obj\Debug\online_movie.Aynabaji.resources
+E:\online movie\obj\Debug\online_movie.Badsha.resources
+E:\online movie\obj\Debug\online_movie.Buy_tickets.resources
+E:\online movie\obj\Debug\online_movie.Mastercard.resources
+E:\online movie\obj\Debug\online_movie.Movies_Details_Of_Badshah.resources
+E:\online movie\obj\Debug\online_movie.Movie_Details_Of_Nawbab.resources
+E:\online movie\obj\Debug\online_movie.Movie_Detail_Of_Aynabaji.resources
+E:\online movie\obj\Debug\online_movie.Movie_Detail_Of_Transformer.resources
+E:\online movie\obj\Debug\online_movie.Movie_Details_Of_Spiderman.resources
+E:\online movie\obj\Debug\online_movie.Payment.resources
+E:\online movie\obj\Debug\online_movie.Upcoming_Movie_Details3.resources
+E:\online movie\obj\Debug\online_movie.Upcoming_Movie_Details4.resources
+E:\online movie\obj\Debug\online_movie.Welcome_Page.resources
+E:\online movie\obj\Debug\online_movie.Movie.resources
+E:\online movie\obj\Debug\online_movie.Movies_Details.resources
+E:\online movie\obj\Debug\online_movie.Movie_details_Of_TheMummy.resources
+E:\online movie\obj\Debug\online_movie.Now_Showing_Movie_List.resources
+E:\online movie\obj\Debug\online_movie.Properties.Resources.resources
+E:\online movie\obj\Debug\online_movie.Register.resources
+E:\online movie\obj\Debug\online_movie.Upcomimg_Movie.resources
+E:\online movie\obj\Debug\online_movie.Upcoming_Detail_1.resources
+E:\online movie\obj\Debug\online_movie.Upcomming_Movie_Details2.resources
+E:\online movie\obj\Debug\online_movie.login.resources
+E:\online movie\obj\Debug\online_movie.VisaCard.resources
+E:\online movie\obj\Debug\online_movie.Work.resources
+E:\online movie\obj\Debug\online movie.csproj.GenerateResource.Cache

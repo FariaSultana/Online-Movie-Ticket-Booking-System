@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AF5ED621-DD3B-4FDF-9806-C4DE01D9A1EC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>online_movie</RootNamespace>
+    <AssemblyName>online movie</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aynabaji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Aynabaji.Designer.cs">
+      <DependentUpon>Aynabaji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Badsha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Badsha.Designer.cs">
+      <DependentUpon>Badsha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Buy_tickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Buy_tickets.Designer.cs">
+      <DependentUpon>Buy_tickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mastercard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mastercard.Designer.cs">
+      <DependentUpon>Mastercard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movies_Details_Of_Badshah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movies_Details_Of_Badshah.Designer.cs">
+      <DependentUpon>Movies_Details_Of_Badshah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movie_Details_Of_Nawbab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movie_Details_Of_Nawbab.Designer.cs">
+      <DependentUpon>Movie_Details_Of_Nawbab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movie_Detail_Of_Aynabaji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movie_Detail_Of_Aynabaji.Designer.cs">
+      <DependentUpon>Movie_Detail_Of_Aynabaji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movie_Detail_Of_Transformer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movie_Detail_Of_Transformer.Designer.cs">
+      <DependentUpon>Movie_Detail_Of_Transformer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movie_Details_Of_Spiderman.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movie_Details_Of_Spiderman.Designer.cs">
+      <DependentUpon>Movie_Details_Of_Spiderman.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payment.Designer.cs">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataAccess.cs" />
+    <Compile Include="Upcoming_Movie_Details3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upcoming_Movie_Details3.Designer.cs">
+      <DependentUpon>Upcoming_Movie_Details3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upcoming_Movie_Details4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upcoming_Movie_Details4.Designer.cs">
+      <DependentUpon>Upcoming_Movie_Details4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Welcome_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Welcome_Page.Designer.cs">
+      <DependentUpon>Welcome_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movie.Designer.cs">
+      <DependentUpon>Movie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movies_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movies_Details.Designer.cs">
+      <DependentUpon>Movies_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Movie_details_Of_TheMummy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Movie_details_Of_TheMummy.Designer.cs">
+      <DependentUpon>Movie_details_Of_TheMummy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Now_Showing_Movie_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Now_Showing_Movie_List.Designer.cs">
+      <DependentUpon>Now_Showing_Movie_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upcomimg_Movie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upcomimg_Movie.Designer.cs">
+      <DependentUpon>Upcomimg_Movie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upcoming_Detail_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upcoming_Detail_1.Designer.cs">
+      <DependentUpon>Upcoming_Detail_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upcomming_Movie_Details2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upcomming_Movie_Details2.Designer.cs">
+      <DependentUpon>Upcomming_Movie_Details2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VisaCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VisaCard.Designer.cs">
+      <DependentUpon>VisaCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Work.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Work.Designer.cs">
+      <DependentUpon>Work.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Aynabaji.resx">
+      <DependentUpon>Aynabaji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Badsha.resx">
+      <DependentUpon>Badsha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Buy_tickets.resx">
+      <DependentUpon>Buy_tickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mastercard.resx">
+      <DependentUpon>Mastercard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movies_Details_Of_Badshah.resx">
+      <DependentUpon>Movies_Details_Of_Badshah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movie_Details_Of_Nawbab.resx">
+      <DependentUpon>Movie_Details_Of_Nawbab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movie_Detail_Of_Aynabaji.resx">
+      <DependentUpon>Movie_Detail_Of_Aynabaji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movie_Detail_Of_Transformer.resx">
+      <DependentUpon>Movie_Detail_Of_Transformer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movie_Details_Of_Spiderman.resx">
+      <DependentUpon>Movie_Details_Of_Spiderman.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payment.resx">
+      <DependentUpon>Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upcoming_Movie_Details3.resx">
+      <DependentUpon>Upcoming_Movie_Details3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upcoming_Movie_Details4.resx">
+      <DependentUpon>Upcoming_Movie_Details4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome_Page.resx">
+      <DependentUpon>Welcome_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movie.resx">
+      <DependentUpon>Movie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movies_Details.resx">
+      <DependentUpon>Movies_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Movie_details_Of_TheMummy.resx">
+      <DependentUpon>Movie_details_Of_TheMummy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Now_Showing_Movie_List.resx">
+      <DependentUpon>Now_Showing_Movie_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upcomimg_Movie.resx">
+      <DependentUpon>Upcomimg_Movie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upcoming_Detail_1.resx">
+      <DependentUpon>Upcoming_Detail_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upcomming_Movie_Details2.resx">
+      <DependentUpon>Upcomming_Movie_Details2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VisaCard.resx">
+      <DependentUpon>VisaCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Work.resx">
+      <DependentUpon>Work.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="ShockwaveFlashObjects">
+      <Guid>{D27CDB6B-AE6D-11CF-96B8-444553540000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empty-cart-dark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\j.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index4.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
